@@ -1,6 +1,6 @@
 # Blink
 
-A simple Arduino app to play the Mario 1-up sound (the tones were borrowed from [here](http://bikeshedeffect.weebly.com/arduino-piezo-sounds.html)
+A simple Arduino app to play the Mario 1-up sound (the tones were borrowed from [here](http://bikeshedeffect.weebly.com/arduino-piezo-sounds.html).
 
 This will eventually be paired up with a Ethernet shield (Arduino expansion board) that will receive a web request when 'something' happens.
 
