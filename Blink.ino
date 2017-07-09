@@ -10,7 +10,7 @@ void setup() {
 
 void loop() {
   soundPlayer._1up();
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the RED LED
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the RED LED on
   delay(100);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the RED LED off by making the voltage LOW
   delay(100); 
@@ -19,5 +19,6 @@ void loop() {
   delay(100);                       // wait for a second
   digitalWrite(PIN_3, LOW);    // turn the GREEN LED off by making the voltage LOW
   delay(100); 
+  
   delay(2000);  // pause 2 seconds
 }
